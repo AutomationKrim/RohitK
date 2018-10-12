@@ -1,0 +1,26 @@
+import java.net.MalformedURLException;
+
+import org.openqa.selenium.By;
+
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+
+public class miscelleanous extends AppLaunch {
+
+	static AndroidDriver<AndroidElement> driver;
+	
+	public static void main(String[] args) throws MalformedURLException {
+		driver=capabilities();
+		System.out.println(driver.currentActivity());
+		// To check the type of app (native, hybrid, webview)
+		System.out.println(driver.getContext());
+		//To check the landscape or portrait
+		System.out.println(driver.getOrientation());
+		// To check whether device is locked or not
+		System.out.println(driver.isDeviceLocked());
+		
+		driver.findElement(By.xpath("//android.widget.TextView[@text='Views']")).click();
+		//driver.pressKeyCode(key, metastate);
+	}
+
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="AppLaunch"/>
+<fullyQualifiedTypeName name="io.appium.java_client.android.AndroidDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.touch.TouchActions"/>
+<fullyQualifiedTypeName name="io.appium.java_client.TouchAction"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.LongPressOptions"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.offset.ElementOption"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Duration"/>
+<fullyQualifiedTypeName name="javax.xml.datatype.Duration"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.offset.PointOption"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.WaitOptions"/>
+<fullyQualifiedTypeName name="java.time.Duration"/>
+<fullyQualifiedTypeName name="io.appium.java_client.remote.AndroidMobileCapabilityType"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Dimension"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+<fullyQualifiedTypeName name="org.apache.http.util.Asserts"/>
+<fullyQualifiedTypeName name="com.google.common.annotations.VisibleForTesting"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+</qualifiedTypeNameHistroy>
